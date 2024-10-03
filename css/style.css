@@ -1,0 +1,11 @@
+.jumbotron{
+    background-color: dimgray;
+}
+
+body{
+    min-height: 3000px;
+}
+
+#project{
+    background-color: dimgray;
+}
